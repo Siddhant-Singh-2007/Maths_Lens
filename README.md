@@ -13,13 +13,6 @@ This is a Python-based backend application that can recognize math equations fro
 
 ---
 
-## Screenshots
-
-![Screenshot](screenshot.png)  
-*(Replace with your actual screenshot)*
-
----
-
 ## Requirements
 
 - Python 3.10 or higher
